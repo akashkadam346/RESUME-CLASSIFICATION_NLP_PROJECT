@@ -13,7 +13,7 @@ Today the major problem being faced across the industry is how to acquire the ri
 
 # Business Objective:
 
-Our group intends to provide a solution to the above-mentioned challenges by automating the process. The document classification solution should significantly reduce the manual human effort in the HRM and financial department. It should achieve a higher level of accuracy and automation with minimal human intervention.
+Our group intends to provide a solution to the above-mentioned challenges by automating the process. The Resume classification solution should significantly reduce the manual human effort in the HRM.It should achieve a higher level of accuracy and automation with minimal human intervention for the company.
 
 # Steps Involved In These Project
 
